@@ -123,12 +123,14 @@ Ihres Mannes Herz darf sich auf sie verlassen.
 * welche mit Raht und That im aufs freundschaftlischste und holdseligste an die Hand gegangen
 
 ### Sind diese Geschlechterstereotype aktuell überwunden? Was meinen Sie?
+Die bereits erwähnten Stereotypen und bestehenden Vorurteile gegenüber Frauen sind weiterhin präsent, wie eine aktuelle Untersuchung zur "Darstellung von Geschlechterrollen in sozialen Medien und deren Einfluss auf die Geschlechtergerechtigkeit" verdeutlicht:
 
 ![Rollenbildern in den sozialen Medien](img/Bild1.jpg)
 
 ![Rollenbildern in den sozialen Medien](img/Bild2.jpg)
 
-
+Quelle: https://www.plan.de/rollenbilder-in-social-media.html?sc=IDQ24200
+![grafik](https://github.com/Swantje21/Lehre/assets/80963834/c861e10f-c336-4a2b-9506-41342182bd5f)
 
 
 
