@@ -113,14 +113,14 @@ Desweiteren können Sie optional und zur weiteren Vertiefung den folgenden Artik
 ![Leichenpredigt von Katharina Franck](img/Personalia.jpg)
 
 **Quellenauszüge:**
-* ganz liebreiche, vernünftige und tugendhafte Eheliebste
-* die Haushaltung, deren Last sie ihm gänzlich abgenommen
-* daß an und für ihr erfüllet worden, was sonst von einer guten Ehefrauen in seinen weisen Sprüchen Salomo schreibt:
-Ihres Mannes Herz darf sich auf sie verlassen.
-* Auch müssen ihre Söhne sie als eine brünstig liebende, wahre, getreue Mutter preissen.
+* "ganz liebreiche, vernünftige und tugendhafte Eheliebste [...]"
+* "die Haushaltung, deren Last sie ihm gänzlich abgenommen [...]"
+* "daß an und für ihr erfüllet worden, was sonst von einer guten Ehefrauen in seinen weisen Sprüchen Salomo schreibt:
+Ihres Mannes Herz darf sich auf sie verlassen [...]"
+* "auch müssen ihre Söhne sie als eine brünstig liebende, wahre, getreue Mutter preissen [...]"
 
 ### Finden Sie bestimmte Äußerungen überraschend? Wenn ja welche?
-* welche mit Raht und That im aufs freundschaftlischste und holdseligste an die Hand gegangen
+* "[...] welche mit Raht und That im aufs freundschaftlischste und holdseligste an die Hand gegangen."
 
 ### Sind diese Geschlechterstereotype aktuell überwunden? Was meinen Sie?
 Die bereits erwähnten Stereotypen und bestehenden Vorurteile gegenüber Frauen sind weiterhin präsent, wie eine aktuelle Untersuchung zur "Darstellung von Geschlechterrollen in sozialen Medien und deren Einfluss auf die Geschlechtergerechtigkeit" verdeutlicht:
