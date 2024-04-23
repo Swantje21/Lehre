@@ -110,7 +110,9 @@ Desweiteren können Sie optional und zur weiteren Vertiefung den folgenden Artik
 ![Leichenpredigt von Katharina Franck](img/Leichenpredigt_Katharina_Franck.jpg)
 
 ### Welche Schilderungen würden Sie im folgenden Abschnitt als typisch weibliche Merkmale kennzeichnen?
+![Leichenpredigt von Katharina Franck](img/Personalia.jpg)
 
+**Quellenauszüge:**
 * ganz liebreiche, vernünftige und tugendhafte Eheliebste
 * die Haushaltung, deren Last sie ihm gänzlich abgenommen
 * daß an und für ihr erfüllet worden, was sonst von einer guten Ehefrauen in seinen weisen Sprüchen Salomo schreibt:
@@ -123,6 +125,7 @@ Ihres Mannes Herz darf sich auf sie verlassen.
 ### Sind diese Geschlechterstereotype aktuell überwunden? Was meinen Sie?
 
 ![Rollenbildern in den sozialen Medien](img/Bild1.jpg)
+
 ![Rollenbildern in den sozialen Medien](img/Bild2.jpg)
 
 
