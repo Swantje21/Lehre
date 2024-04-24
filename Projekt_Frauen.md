@@ -155,7 +155,7 @@ Welche Textstellen aus dem Abschnitt zu den "Personalia" würden Sie als Beschre
 > Sind diese Geschlechterstereotype aktuell überwunden? Was meinen Sie?
 
 {{1}}
-Die bereits erwähnten Stereotypen und bestehenden Vorurteile gegenüber Frauen sind weiterhin präsent, wie eine aktuelle Untersuchung zur "Darstellung von Geschlechterrollen in sozialen Medien und deren Einfluss auf die Geschlechtergerechtigkeit" verdeutlicht:
+> _Die bereits erwähnten Stereotypen und bestehenden Vorurteile gegenüber Frauen sind weiterhin präsent, wie eine aktuelle Untersuchung zur "Darstellung von Geschlechterrollen in sozialen Medien und deren Einfluss auf die Geschlechtergerechtigkeit" verdeutlicht:_
 
 {{2}}
 ![Rollenbildern in den sozialen Medien](img/Bild1.jpg)
