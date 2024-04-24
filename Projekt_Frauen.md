@@ -96,7 +96,7 @@ Desweiteren können Sie optional und zur weiteren Vertiefung den folgenden Artik
 
 * [Kirsten Heinsohn](https://docupedia.de/zg/Docupedia:Kirsten_Heinsohn "Docupedia:Kirsten Heinsohn"), [Claudia Kemper](https://docupedia.de/zg/Docupedia:Claudia_Kemper "Docupedia:Claudia Kemper"), Geschlechtergeschichte, in: Docupedia-Zeitgeschichte, 04.12.2012, [http://docupedia.de/zg/heinsohn_kemper_geschlechtergeschichte_v1_de_2012](https://docupedia.de/zg/Docupedia:Kirsten_Heinsohn)
 
-### Sitzung am 25.04.2024
+## Sitzung am 25.04.2024
 
 ### Gruppenarbeit Mind-Map
 
@@ -109,7 +109,7 @@ Desweiteren können Sie optional und zur weiteren Vertiefung den folgenden Artik
    * Schlüsselbegriffe, Personen, Ereignisse oder Quellen, die mit den Unterkategorien verbunden sind
    * Präsentation: Jede Gruppe präsentiert ihre interaktive Mind-Map und erläutert kurz die ausgewählten Themen.
 
-## Einführung in das Thema historische Frauenforschung
+### Einführung gender history
 ![Leichenpredigt von Katharina Franck](img/Leichenpredigt_Katharina_Franck.jpg)
 
 Titel: Das Testament und letzter Wille des sterbenden Jesu
@@ -121,9 +121,21 @@ hertzgeliebten Hauß-Ehre In damahliger Leichen-Predigt aus Joh. XVII, v. 24. (V
 Oculi, war der 27. Martii dieses itztlauffenden 1698sten Jahrs in der Haupt-Kirchen St. Nicolai im Kiel in Volckreicher
 Versamlung eröffnet.
 
-### Leichenpredigt für Katharina Franck, 1698
+### Leichenpredigt von Katharina Franck, 1698
 
-Welche Textstellen aus dem Abschnitt zu den "Personalia" würden Sie als typisch weibliche Merkmale kennzeichnen?
+Finden Sie an der Leichenpredigt etwas überraschend? Wenn ja was?
+
+{{1}}
+> ganz allgemein: die Tatsache, dass für eine Frau der Frühen Neuzeit eine Leichenpredigt verfasst wurde
+> der Sprachgebrauch (herzliche, teilweise liebevolle Begriffe und Äußerungen)
+> Beipsiel: "welche mit Raht und That ihm aufs freundschaftlischste und holdseligste an die Hand gegangen."
+> ein Sprachgebrauch, der sich quasi auf "Augenhöhe" mit den Leichenpredigten, die für Männer geschrieben wurden, befindet
+> ausführlich wird auf die soziale Herkunft und den Stand von Katharina Franck verwiesen
+> ihre Zugehörigkeit zum gehobenen Bürgertum Kiels scheint den Stellenwert ihres Geschlechts abzulösen 
+
+#### Leichenpredigt von Katharina Franck, 1698
+
+Welche Textstellen aus dem Abschnitt zu den "Personalia" würden Sie als Beschreibung typisch weiblicher Merkmale kennzeichnen?
 
 ![Leichenpredigt von Katharina Franck](img/Personalia.jpg)
 
@@ -131,18 +143,13 @@ Welche Textstellen aus dem Abschnitt zu den "Personalia" würden Sie als typisch
 ********
 **Quellenauszüge:**
 
-> * ganz liebreiche, vernünftige und tugendhafte Eheliebste
-> * die Haushaltung, deren Last sie ihm gänzlich abgenommen
-> * daß an und für ihr erfüllet worden, was sonst von einer guten Ehefrauen in seinen weisen Sprüchen Salomo schreibt: Ihres Mannes Herz darf sich auf sie verlassen
-> * auch müssen ihre Söhne sie als eine brünstig liebende, wahre, getreue Mutter preissen
+> * ganz liebreiche, vernünftige und tugendhafte Eheliebste (Rolle der Ehefrau)
+> * die Haushaltung, deren Last sie ihm gänzlich abgenommen (Rolle der Hausfrau)
+> * daß an und für ihr erfüllet worden, was sonst von einer guten Ehefrauen in seinen weisen Sprüchen Salomo schreibt: Ihres Mannes Herz darf sich auf sie verlassen (die treue Hausfrau)
+> * auch müssen ihre Söhne sie als eine brünstig liebende, wahre, getreue Mutter preissen (die Rolle der Mutter)
+
+> _Die Zuschreibung als Mutter, Hausfrau und Ehefrau verweist die Frau auf die private Sphäre des Hauses (Privatheit), während die öffentliche Sphäre, Politik und Berufswelt, den Männern zugeordnet wurde (Öffentlichkeit)_
 ********
-
-### Leichenpredigt für Katharina Franck, 1698
-
-Finden Sie bestimmte Äußerungen überraschend? Wenn ja welche?
-
-{{1}}
-> [...] welche mit Raht und That im aufs freundschaftlischste und holdseligste an die Hand gegangen.
 
 ### Aktuelle Debatten um Stereotypen
 > Sind diese Geschlechterstereotype aktuell überwunden? Was meinen Sie?
@@ -163,10 +170,12 @@ Die bereits erwähnten Stereotypen und bestehenden Vorurteile gegenüber Frauen 
 
 ### Aufgabe zur nächsten Woche
 
-Bitte lesen Sie zur nächsten Woche den folgenden Artikel:
+Bitte lesen Sie zur nächsten Woche den folgende Artikel:
 
 * Geschlechterrollen in der Frühen Neuzeit: https://referenceworks.brill.com/display/entries/EDNO/COM-272465.xml
 
 * Epochenbegriff Frühe Neuzeit: https://referenceworks.brill.com/display/entries/EDNO/COM-267907.xml#d39764389e786
 
+* Gisela Engel und Meide Wunder. Geschlechterperspektiven in der Frühen Neuzeit; im Olat-Ordner
+  
 Desweiteren können Sie optional und zur weiteren Vertiefung den folgenden Artikel lesen:
