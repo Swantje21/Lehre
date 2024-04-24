@@ -114,11 +114,12 @@ Desweiteren können Sie optional und zur weiteren Vertiefung den folgenden Artik
 
 ### Leichenpredigt für Katharina Franck, 1698
 
-Welche Schilderungen würden Sie im folgenden Abschnitt als typisch weibliche Merkmale kennzeichnen?
+Welche Textstellen aus dem Abschnitt zu den "Personalia" würden Sie als typisch weibliche Merkmale kennzeichnen?
 
 ![Leichenpredigt von Katharina Franck](img/Personalia.jpg)
 
 **Quellenauszüge:**
+
 * ganz liebreiche, vernünftige und tugendhafte Eheliebste [...]
 * die Haushaltung, deren Last sie ihm gänzlich abgenommen [...]
 * daß an und für ihr erfüllet worden, was sonst von einer guten Ehefrauen in seinen weisen Sprüchen Salomo schreibt:
