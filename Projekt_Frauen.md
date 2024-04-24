@@ -119,13 +119,16 @@ Welche Textstellen aus dem Abschnitt zu den "Personalia" würden Sie als typisch
 ![Leichenpredigt von Katharina Franck](img/Personalia.jpg)
 
 {{0-1}}
+*****************
 **Quellenauszüge:**
 
 > {0-1}{ganz liebreiche, vernünftige und tugendhafte Eheliebste}
-> {0-2}{die Haushaltung, deren Last sie ihm gänzlich abgenommen}
-> {0-3}{daß an und für ihr erfüllet worden, was sonst von einer guten Ehefrauen in seinen weisen Sprüchen Salomo schreibt:
+> {1-2}{die Haushaltung, deren Last sie ihm gänzlich abgenommen}
+> {2-3}{daß an und für ihr erfüllet worden, was sonst von einer guten Ehefrauen in seinen weisen Sprüchen Salomo schreibt:
 Ihres Mannes Herz darf sich auf sie verlassen}
 > {0-4}{auch müssen ihre Söhne sie als eine brünstig liebende, wahre, getreue Mutter preissen}
+
+*****************
 
 ## Leichenpredigt für Katharina Franck, 1698
 
