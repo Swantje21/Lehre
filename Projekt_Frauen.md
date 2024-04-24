@@ -118,7 +118,7 @@ Welche Textstellen aus dem Abschnitt zu den "Personalia" würden Sie als typisch
 
 ![Leichenpredigt von Katharina Franck](img/Personalia.jpg)
 
-{{0-1}}
+{{1}}
 
 **Quellenauszüge:**
 
@@ -129,12 +129,12 @@ Ihres Mannes Herz darf sich auf sie verlassen
 > {3-4}auch müssen ihre Söhne sie als eine brünstig liebende, wahre, getreue Mutter preissen
 
 
-{{1-2}}
-## Leichenpredigt für Katharina Franck, 1698
+### Leichenpredigt für Katharina Franck, 1698
 
 Finden Sie bestimmte Äußerungen überraschend? Wenn ja welche?
 
-> {0-1}{[...] welche mit Raht und That im aufs freundschaftlischste und holdseligste an die Hand gegangen.}
+{{1}}
+> [...] welche mit Raht und That im aufs freundschaftlischste und holdseligste an die Hand gegangen.
 
 ### Sind diese Geschlechterstereotype aktuell überwunden? Was meinen Sie?
 
