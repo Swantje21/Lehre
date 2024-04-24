@@ -131,10 +131,10 @@ Welche Textstellen aus dem Abschnitt zu den "Personalia" würden Sie als typisch
 ********
 **Quellenauszüge:**
 
-> ganz liebreiche, vernünftige und tugendhafte Eheliebste
-> die Haushaltung, deren Last sie ihm gänzlich abgenommen
-> daß an und für ihr erfüllet worden, was sonst von einer guten Ehefrauen in seinen weisen Sprüchen Salomo schreibt: Ihres Mannes Herz darf sich auf sie verlassen
-> auch müssen ihre Söhne sie als eine brünstig liebende, wahre, getreue Mutter preissen
+> * ganz liebreiche, vernünftige und tugendhafte Eheliebste
+> * die Haushaltung, deren Last sie ihm gänzlich abgenommen
+> * daß an und für ihr erfüllet worden, was sonst von einer guten Ehefrauen in seinen weisen Sprüchen Salomo schreibt: Ihres Mannes Herz darf sich auf sie verlassen
+> * auch müssen ihre Söhne sie als eine brünstig liebende, wahre, getreue Mutter preissen
 ********
 
 ### Leichenpredigt für Katharina Franck, 1698
