@@ -121,7 +121,7 @@ hertzgeliebten Hauß-Ehre In damahliger Leichen-Predigt aus Joh. XVII, v. 24. (V
 Oculi, war der 27. Martii dieses itztlauffenden 1698sten Jahrs in der Haupt-Kirchen St. Nicolai im Kiel in Volckreicher
 Versamlung eröffnet.
 
-### Leichenpredigt von Katharina Franck, 1698
+#### Leichenpredigt von Katharina Franck, 1698
 
 Finden Sie an der Leichenpredigt etwas überraschend? Wenn ja was?
 
@@ -151,7 +151,7 @@ Welche Textstellen aus dem Abschnitt zu den "Personalia" würden Sie als Beschre
 > _Die Zuschreibung als Mutter, Hausfrau und Ehefrau verweist die Frau auf die private Sphäre des Hauses (Privatheit), während die öffentliche Sphäre, Politik und Berufswelt, den Männern zugeordnet wurde (Öffentlichkeit)_
 ********
 
-### Aktuelle Debatten um Stereotypen
+#### Aktuelle Debatten um Stereotypen
 > Sind diese Geschlechterstereotype aktuell überwunden? Was meinen Sie?
 
 {{1}}
