@@ -149,11 +149,13 @@ Finden Sie bestimmte Äußerungen überraschend? Wenn ja welche?
 
 Die bereits erwähnten Stereotypen und bestehenden Vorurteile gegenüber Frauen sind weiterhin präsent, wie eine aktuelle Untersuchung zur "Darstellung von Geschlechterrollen in sozialen Medien und deren Einfluss auf die Geschlechtergerechtigkeit" verdeutlicht:
 
+{{1}}
 ![Rollenbildern in den sozialen Medien](img/Bild1.jpg)
 
+{{2}}
 ![Rollenbildern in den sozialen Medien](img/Bild2.jpg)
 
-Quelle:![grafik](https://github.com/Swantje21/Lehre/assets/80963834/c861e10f-c336-4a2b-9506-41342182bd5f)
+![grafik](https://github.com/Swantje21/Lehre/assets/80963834/c861e10f-c336-4a2b-9506-41342182bd5f)
 
 
 ### Aufgabe zur nächsten Woche
