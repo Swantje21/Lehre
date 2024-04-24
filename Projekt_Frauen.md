@@ -109,22 +109,24 @@ Desweiteren können Sie optional und zur weiteren Vertiefung den folgenden Artik
    * Schlüsselbegriffe, Personen, Ereignisse oder Quellen, die mit den Unterkategorien verbunden sind
    * Präsentation: Jede Gruppe präsentiert ihre interaktive Mind-Map und erläutert kurz die ausgewählten Themen.
 
-### Einführung in das Thema historische Frauenforschung
+## Einführung in das Thema historische Frauenforschung
 ![Leichenpredigt von Katharina Franck](img/Leichenpredigt_Katharina_Franck.jpg)
 
-## Leichenpredigt für Katharina Franck, 1698
+### Leichenpredigt für Katharina Franck, 1698
 
 Welche Textstellen aus dem Abschnitt zu den "Personalia" würden Sie als typisch weibliche Merkmale kennzeichnen?
 
 ![Leichenpredigt von Katharina Franck](img/Personalia.jpg)
 
 {{1}}
+********
 **Quellenauszüge:**
 
 > ganz liebreiche, vernünftige und tugendhafte Eheliebste
 > die Haushaltung, deren Last sie ihm gänzlich abgenommen
 > daß an und für ihr erfüllet worden, was sonst von einer guten Ehefrauen in seinen weisen Sprüchen Salomo schreibt: Ihres Mannes Herz darf sich auf sie verlassen
 > auch müssen ihre Söhne sie als eine brünstig liebende, wahre, getreue Mutter preissen
+********
 
 ### Leichenpredigt für Katharina Franck, 1698
 
