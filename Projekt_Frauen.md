@@ -112,8 +112,10 @@ Desweiteren können Sie optional und zur weiteren Vertiefung den folgenden Artik
 ### Einführung in das Thema historische Frauenforschung
 ![Leichenpredigt von Katharina Franck](img/Leichenpredigt_Katharina_Franck.jpg)
 
-### Welche Schilderungen würden Sie im folgenden Abschnitt als typisch weibliche Merkmale kennzeichnen?
+### Leichenpredigt für Katharina Franck, 1698
 ![Leichenpredigt von Katharina Franck](img/Personalia.jpg)
+
+Welche Schilderungen würden Sie im folgenden Abschnitt als typisch weibliche Merkmale kennzeichnen?
 
 **Quellenauszüge:**
 * "ganz liebreiche, vernünftige und tugendhafte Eheliebste [...]"
