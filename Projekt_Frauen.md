@@ -153,9 +153,11 @@ Die bereits erwähnten Stereotypen und bestehenden Vorurteile gegenüber Frauen 
 ![Rollenbildern in den sozialen Medien](img/Bild1.jpg)
 
 {{2}}
+********
 ![Rollenbildern in den sozialen Medien](img/Bild2.jpg)
 
-![grafik](https://github.com/Swantje21/Lehre/assets/80963834/c861e10f-c336-4a2b-9506-41342182bd5f)
+![grafik](https://www.plan.de/rollenbilder-in-social-media.html?sc=IDQ24200)
+********
 
 
 ### Aufgabe zur nächsten Woche
