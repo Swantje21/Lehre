@@ -85,16 +85,6 @@ Details folgen im Laufe des Semesters.
 3. Es kann sein, dass Sie in Ihren Quellen wenig oder gar keine biographischen Details finden: Das ist auch ein Ergebnis, dessen Dokumentation einen Wert hat!
 4. Der Seminarplan ist "im Fluss".
 
-### Gruppenarbeit Mind-Map
-
-1. Bilden Sie Gruppen von 3 bis 4 Teilnhemenden.
-2. Jede Gruppe wählt ein Hauptthema aus dem Bereich der Frauen- und Geschlechterforschung in der Frühen Neuzeit, z.B. Frauen in der Wissenschaft, Frauen und Religion, Frauen und Bildung, etc.
-3. Erstelln Sie eine Mind-Map: Diese sollte die folgende Elemente enthalten:
-
-   * Hauptthema (z.B. Frauen in der Wissenschaft)
-   * Unterkategorien oder Aspekte des Themas (z.B. berühmte Wissenschaftlerinnen, Zugang von Frauen zur Bildung, Herausforderungen für Frauen in der akademischen Welt, etc.)
-   * Schlüsselbegriffe, Personen, Ereignisse oder Quellen, die mit den Unterkategorien verbunden sind
-   * Präsentation: Jede Gruppe präsentiert ihre interaktive Mind-Map und erläutert kurz die ausgewählten Themen.
 
 ### Aufgabe zur nächsten Woche
 
@@ -105,6 +95,19 @@ Bitte lesen Sie zur nächsten Woche den folgenden Artikel:
 Desweiteren können Sie optional und zur weiteren Vertiefung den folgenden Artikel lesen:
 
 * [Kirsten Heinsohn](https://docupedia.de/zg/Docupedia:Kirsten_Heinsohn "Docupedia:Kirsten Heinsohn"), [Claudia Kemper](https://docupedia.de/zg/Docupedia:Claudia_Kemper "Docupedia:Claudia Kemper"), Geschlechtergeschichte, in: Docupedia-Zeitgeschichte, 04.12.2012, [http://docupedia.de/zg/heinsohn_kemper_geschlechtergeschichte_v1_de_2012](https://docupedia.de/zg/Docupedia:Kirsten_Heinsohn)
+
+### Sitzung am 25.04.2024
+
+### Gruppenarbeit Mind-Map
+
+1. Bilden Sie Gruppen von 3 bis 4 Teilnhemenden.
+2. Jede Gruppe wählt ein Hauptthema aus dem Bereich der Frauen- und Geschlechterforschung, z.B. Frauen in der Wissenschaft, Frauen und Religion, Frauen und Bildung, etc.
+3. Erstelln Sie eine Mind-Map: Diese sollte die folgende Elemente enthalten:
+
+   * Hauptthema (z.B. Frauen in der Wissenschaft)
+   * Unterkategorien oder Aspekte des Themas (z.B. berühmte Wissenschaftlerinnen, Zugang von Frauen zur Bildung, Herausforderungen für Frauen in der akademischen Welt, etc.)
+   * Schlüsselbegriffe, Personen, Ereignisse oder Quellen, die mit den Unterkategorien verbunden sind
+   * Präsentation: Jede Gruppe präsentiert ihre interaktive Mind-Map und erläutert kurz die ausgewählten Themen.
 
 ### Einführung in das Thema historische Frauenforschung
 ![Leichenpredigt von Katharina Franck](img/Leichenpredigt_Katharina_Franck.jpg)
