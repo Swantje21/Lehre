@@ -147,16 +147,17 @@ Finden Sie bestimmte Äußerungen überraschend? Wenn ja welche?
 ### Aktuelle Debatten um Stereotypen
 > Sind diese Geschlechterstereotype aktuell überwunden? Was meinen Sie?
 
+{{1}}
 Die bereits erwähnten Stereotypen und bestehenden Vorurteile gegenüber Frauen sind weiterhin präsent, wie eine aktuelle Untersuchung zur "Darstellung von Geschlechterrollen in sozialen Medien und deren Einfluss auf die Geschlechtergerechtigkeit" verdeutlicht:
 
-{{1}}
+{{2}}
 ![Rollenbildern in den sozialen Medien](img/Bild1.jpg)
 
-{{2}}
+{{3}}
 ********
 ![Rollenbildern in den sozialen Medien](img/Bild2.jpg)
 
-![grafik](https://www.plan.de/rollenbilder-in-social-media.html?sc=IDQ24200)
+![Quelle](https://www.plan.de/rollenbilder-in-social-media.html?sc=IDQ24200)
 ********
 
 
