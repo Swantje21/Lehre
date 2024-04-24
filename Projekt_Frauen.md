@@ -112,24 +112,25 @@ Desweiteren können Sie optional und zur weiteren Vertiefung den folgenden Artik
 ### Einführung in das Thema historische Frauenforschung
 ![Leichenpredigt von Katharina Franck](img/Leichenpredigt_Katharina_Franck.jpg)
 
-### Leichenpredigt für Katharina Franck, 1698
+## Leichenpredigt für Katharina Franck, 1698
 
 Welche Textstellen aus dem Abschnitt zu den "Personalia" würden Sie als typisch weibliche Merkmale kennzeichnen?
 
 ![Leichenpredigt von Katharina Franck](img/Personalia.jpg)
 
+{{0-1}}
 **Quellenauszüge:**
 
-* ganz liebreiche, vernünftige und tugendhafte Eheliebste [...]
-* die Haushaltung, deren Last sie ihm gänzlich abgenommen [...]
-* daß an und für ihr erfüllet worden, was sonst von einer guten Ehefrauen in seinen weisen Sprüchen Salomo schreibt:
+> {0-1}ganz liebreiche, vernünftige und tugendhafte Eheliebste [...]
+> {0-2}die Haushaltung, deren Last sie ihm gänzlich abgenommen [...]
+> {0-3}daß an und für ihr erfüllet worden, was sonst von einer guten Ehefrauen in seinen weisen Sprüchen Salomo schreibt:
 Ihres Mannes Herz darf sich auf sie verlassen [...]
-* auch müssen ihre Söhne sie als eine brünstig liebende, wahre, getreue Mutter preissen [...]
+> {0-4} auch müssen ihre Söhne sie als eine brünstig liebende, wahre, getreue Mutter preissen [...]
 
-### Leichenpredigt für Katharina Franck, 1698
+## Leichenpredigt für Katharina Franck, 1698
 
 Finden Sie bestimmte Äußerungen überraschend? Wenn ja welche?
-
+{{0-1}}
 * [...] welche mit Raht und That im aufs freundschaftlischste und holdseligste an die Hand gegangen.
 
 ### Sind diese Geschlechterstereotype aktuell überwunden? Was meinen Sie?
