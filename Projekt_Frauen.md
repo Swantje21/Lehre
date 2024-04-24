@@ -144,7 +144,8 @@ Finden Sie bestimmte Äußerungen überraschend? Wenn ja welche?
 {{1}}
 > [...] welche mit Raht und That im aufs freundschaftlischste und holdseligste an die Hand gegangen.
 
-### Sind diese Geschlechterstereotype aktuell überwunden? Was meinen Sie?
+### Aktuelle Debatten um Stereotypen
+> Sind diese Geschlechterstereotype aktuell überwunden? Was meinen Sie?
 
 Die bereits erwähnten Stereotypen und bestehenden Vorurteile gegenüber Frauen sind weiterhin präsent, wie eine aktuelle Untersuchung zur "Darstellung von Geschlechterrollen in sozialen Medien und deren Einfluss auf die Geschlechtergerechtigkeit" verdeutlicht:
 
