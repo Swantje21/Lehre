@@ -112,6 +112,15 @@ Desweiteren können Sie optional und zur weiteren Vertiefung den folgenden Artik
 ## Einführung in das Thema historische Frauenforschung
 ![Leichenpredigt von Katharina Franck](img/Leichenpredigt_Katharina_Franck.jpg)
 
+Titel: Das Testament und letzter Wille des sterbenden Jesu
+
+Untertitel: Bey Christlicher Leichbestattung Der Weiland Hoch Edlen Groß Ehr- und Hochtugendreichen Frauen Frauen
+Catharina gebohrnen Clausen Des Magnifici, HochEhrwürdigen/ HochEdlen und Hochgelahrten Herrn Christophori Francken
+SS. Theol. Doctoris, fürnehmsten Professoris und hochansehnlichen Procancellarii dieser hochlöblichen Universität
+hertzgeliebten Hauß-Ehre In damahliger Leichen-Predigt aus Joh. XVII, v. 24. (Vater Ich will/ daß wo Ich bin etc.) Am Sontage
+Oculi, war der 27. Martii dieses itztlauffenden 1698sten Jahrs in der Haupt-Kirchen St. Nicolai im Kiel in Volckreicher
+Versamlung eröffnet.
+
 ### Leichenpredigt für Katharina Franck, 1698
 
 Welche Textstellen aus dem Abschnitt zu den "Personalia" würden Sie als typisch weibliche Merkmale kennzeichnen?
