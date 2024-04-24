@@ -126,12 +126,12 @@ Versamlung eröffnet.
 Finden Sie an der Leichenpredigt etwas überraschend? Wenn ja was?
 
 {{1}}
-> ganz allgemein: die Tatsache, dass für eine Frau der Frühen Neuzeit eine Leichenpredigt verfasst wurde
-> der Sprachgebrauch (herzliche, teilweise liebevolle Begriffe und Äußerungen)
-> Beipsiel: "welche mit Raht und That ihm aufs freundschaftlischste und holdseligste an die Hand gegangen."
-> ein Sprachgebrauch, der sich quasi auf "Augenhöhe" mit den Leichenpredigten, die für Männer geschrieben wurden, befindet
-> ausführlich wird auf die soziale Herkunft und den Stand von Katharina Franck verwiesen
-> ihre Zugehörigkeit zum gehobenen Bürgertum Kiels scheint den Stellenwert ihres Geschlechts abzulösen 
+> * ganz allgemein: die Tatsache, dass für eine Frau der Frühen Neuzeit eine Leichenpredigt verfasst wurde
+> * der Sprachgebrauch (herzliche, teilweise liebevolle Begriffe und Äußerungen)
+> * Beipsiel: "welche mit Raht und That ihm aufs freundschaftlischste und holdseligste an die Hand gegangen."
+> * ein Sprachgebrauch, der sich quasi auf "Augenhöhe" mit den Leichenpredigten, die für Männer geschrieben wurden, befindet
+> * ausführlich wird auf die soziale Herkunft und den Stand von Katharina Franck verwiesen
+> * ihre Zugehörigkeit zum gehobenen Bürgertum Kiels scheint den Stellenwert ihres Geschlechts abzulösen 
 
 #### Leichenpredigt von Katharina Franck, 1698
 
