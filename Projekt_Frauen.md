@@ -233,9 +233,21 @@ Entfällt wg. Feiertag!
 
 Landesarchiv Schleswig-Holstein Abt. 7/Nr. 1758 und Amtsrechnung 106/ Bordesholm (1638-39)
 
-### Transkription
+#### Transkription
 
 ![Anneke Drewes](img/Hexenverfolgung.jpg)
+
+1638 wurde Anneke Drewes von ihrem Nachbarn und dessen Frau nach einem Streit angeklagt wegen
+Hexerei, Kindsmord (Bezauberung einer Schwangeren und Tod des Kindes nach eineinhalb Jahren!) und
+Viehseuche. Herzog Friedrich III erlaubte auf Anfrage Folterung. Aber Anneke Drewes gestand nicht. Man
+ließ sie aber nicht frei, sondern sperrte sie 56 Tage im Gefängnis ein. Währenddessen verlangten „sämtliche
+Eingesessenen des Dorfes“ Wattenbek einen erneuten Einsatz von Folter. Der Bordesholmer Amtsschreiber
+Pund verfasste den Antrag an den Herzog und dieser gab nach, erlaubte aber nur die territio verbalis, die
+Schreckung, wobei man der Angeklagten, also Anneke Drewes, die Folterinstrumente zeigte, um ein
+Geständnis zu erzwingen. Das Opfer musste dabei annehmen, dass es wieder schreckliche Qualen
+auszuhalten hatte. Aber Anneke gestand wieder nicht und wurde freigelassen. Ob die Freilassung in diesem
+Fall durch den Fürst direkt oder eine fürstliche Anweisung an das Holstengericht geschah, ist den Akten
+nicht genau zu entnehmen.
 
 ### Automatische Transkription mit Transkribus
 
