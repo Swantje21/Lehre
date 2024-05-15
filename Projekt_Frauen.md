@@ -227,6 +227,16 @@ Entfällt wg. Feiertag!
 
 ## Sitzung am 15.05.
 
+### Transkription der Handschrift zur Hexenverfolgung
+
+![Handschrift Zauberey](img/handschrift_zauberei.jpg)
+
+Landesarchiv Schleswig-Holstein Abt. 7/Nr. 1758 und Amtsrechnung 106/ Bordesholm (1638-39)
+
+### Transkription
+
+![Anneke Drewes](img/Hexenverfolgung.jpg)
+
 ### Automatische Transkription mit Transkribus
 
 Transkribus ist ein Transkriptions-Tool, das von der Read COOP entwickelt wurde und Forschern und Wissenschaftlern dabei hilft, handschriftliche Dokumente zu digitalisieren und zu analysieren. Das Tool basiert auf der optischen Zeichenerkennung (OCR) und maschinellem Lernen und kann sowohl gedruckte als auch handgeschriebene Texte automatisch transkribieren. Darüber hinaus ermöglicht Transkribus auch die manuelle Transkription durch menschliche Transkribenten, wobei das Tool sie bei der Organisation und Verwaltung der Transkription unterstützt.
