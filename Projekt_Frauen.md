@@ -234,6 +234,35 @@ Entfällt wg. Feiertag!
 Landesarchiv Schleswig-Holstein Abt. 7/Nr. 1758 und Amtsrechnung 106/ Bordesholm (1638-39)
 
 #### Transkription
+WolEdle Gestrenge Ehr[?]este GroßAchtbare 
+und hochgelarte großgünstige hochgeehrte liebe herrn 
+D. herlick: und hochgel. gst. kan ich hiemit und 
+dienstlich nicht bergen, Waßgestaldt mir dieses 
+Ambts underthan Carsten Resen zue Wackenbegke 
+wehemütiglich geklaget, daß seine Haußfraue 
+nun eine geraume zeithero betlegerig gewesen, 
+und in ihren gliedern große schmertzen empfunden, 
+Welcheß wie er und seine Haußfraue vormeinen
+ihr von einem alten Weibe in selbigem dorffe 
+Anneke Drewes geheißen angethan und veruhr-
+sachet wurde, dan wie gemelte seine fraue für 
+ungefehr 2 Jahren mit gemelter Dreweschen in 
+streith und wordtgezangk gerathen, und seine fraue
+dero Zeit schwanger gewesen, wehre die Drewesche 
+mit diesen Worten gegen ihr herauß gefahren: 
+Hörstu de Gehall mit deme du im geist, 
+wehe und bange werden, darauff sie dan als [forth] unge- 
+sundt geworden, seid dehme keinen guten tagk
+gehabet und wehre daß Kindt wie eß zur
+weldt kommen, fast an allen gliedern vorlähmet
+gewesen ist hette sich auch unterm bette dar-
+auff daß Kindt mit der Mutter gelegen des Nachts
+sich ein gespenst erreüget, welcheß die bette steite 
+
+Carsten Rese. c/a Anneke Drewes 
+8/12 1638
+
+#### Kontext des Quellenabschnitts
 
 ![Anneke Drewes](img/Hexenverfolgung.jpg)
 
