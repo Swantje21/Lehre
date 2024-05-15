@@ -51,7 +51,7 @@ narrator: UK English Female
 | 02.05. | Frühe Neuzeit als Epoche / Anfänge und Entwicklungen der Geschlechtergeschichte / Potentiale und Kritik / Diskussion von potenziellen Forschungsthemen |
 | 09.05. | Feiertag CHRISTI HIMMELFAHRT |
 | 16.05. | Einführung in verschiedene Quellenarten zur Erforschung von Frauenbiographien / Arbeit mit ungedruckten Quellen und Handschriften / Transkribus /  Archivinformationssystem Arcinsys |
-| 23.05. | Digitaliserung von Quellen, Arbeit mit Digitalisaten und Forschungsdaten (m. B. Petersen) |
+| 23.05. | Digitalisierung von Quellen, Arbeit mit Digitalisaten und Forschungsdaten (m. B. Petersen) |
 | 30.05. | Besuch im Landesarchiv (mit dem Leiter des Universitätarchivs Dr. Jörg Rathjen) |
 | 06.06. | gemeinsame Arbeitssitzung / Analyse der gesammelten Quellen/ |
 | 13.06. | Entwicklung von Forschungsfragen / Beispiele für Online-Präsentationen / Präsentation der Quellen |
@@ -100,44 +100,98 @@ Desweiteren können Sie optional und zur weiteren Vertiefung den folgenden Artik
 
 ### Gruppenarbeit Mind-Map
 
-1. Bilden Sie Gruppen von 3 bis 4 Teilnhemenden.
+1. Bilden Sie Gruppen von 3 bis 4 Teilnehmenden.
 2. Jede Gruppe wählt ein Hauptthema aus dem Bereich der Frauen- und Geschlechterforschung, z.B. Frauen in der Wissenschaft, Frauen und Religion, Frauen und Bildung, etc.
-3. Erstelln Sie eine Mind-Map: Diese sollte die folgende Elemente enthalten:
+3. Erstellen Sie eine Mind-Map. Diese sollte die folgende Elemente enthalten:
 
    * Hauptthema (z.B. Frauen in der Wissenschaft)
    * Unterkategorien oder Aspekte des Themas (z.B. berühmte Wissenschaftlerinnen, Zugang von Frauen zur Bildung, Herausforderungen für Frauen in der akademischen Welt, etc.)
    * Schlüsselbegriffe, Personen, Ereignisse oder Quellen, die mit den Unterkategorien verbunden sind
-   * Präsentation: Jede Gruppe präsentiert ihre interaktive Mind-Map und erläutert kurz die ausgewählten Themen.
 
-### Einführung gender history
+4. Jede Gruppe präsentiert ihre Mind-Map und erläutert kurz die ausgewählten Themen.
+
+#### Ergebnisse: Gruppe "Bildung"
+
+![Bildung](img/gruppenarbeit_bildung.jpg)
+
+#### Ergebnisse: Gruppe "Macht"
+
+![Macht](img/gruppenarbeit_macht.jpg)
+
+#### Ergebnisse: Gruppe "Religion"
+
+![Religion](img/gruppenarbeit_religion.jpg)
+
+#### Ergebnisse: Gruppe "Wissenschaft"
+
+![Wissenschaft](img/gruppenarbeit_wissenschaft.jpg)
+
+#### Ergebnisse: Gruppe "Politik"
+
+![Politik](img/gruppenarbeit_politik.jpeg)
+
+### Aktuelle Debatten um Stereotypen
+
+> Sind diese Geschlechterstereotype aktuell überwunden? Was meinen Sie?
+
+{{1}}
+> _Die bereits erwähnten Stereotypen und bestehenden Vorurteile gegenüber Frauen sind weiterhin präsent, wie eine aktuelle Untersuchung zur "Darstellung von Geschlechterrollen in sozialen Medien und deren Einfluss auf die Geschlechtergerechtigkeit" verdeutlicht:_
+
+{{2}}
+![Rollenbildern in den sozialen Medien](img/Bild1.jpg)
+
+{{3}}
+********
+![Rollenbildern in den sozialen Medien](img/Bild2.jpg)
+
+Quelle: [https://www.plan.de/rollenbilder-in-social-media.html?sc=IDQ24200](https://www.plan.de/rollenbilder-in-social-media.html?sc=IDQ24200)
+********
+
+
+### Aufgabe zur nächsten Woche
+
+Bitte lesen Sie zur nächsten Woche den folgende Artikel:
+
+* Geschlechterrollen in der Frühen Neuzeit: https://referenceworks.brill.com/display/entries/EDNO/COM-272465.xml
+
+* Epochenbegriff Frühe Neuzeit: https://referenceworks.brill.com/display/entries/EDNO/COM-267907.xml#d39764389e786
+
+* Natalie Zemon Davis, Neue Perspektiven für die Geschlechterforschung in der Frühen Neuzeit; im Olat-Ordner
+
+## Sitzung am 02.05.2024
+
+### Leichenpredigt Katharina Franck (1698)
+
+Die vollständige Leichenpredigt finden Sie im OLAT.
+
 ![Leichenpredigt von Katharina Franck](img/Leichenpredigt_Katharina_Franck.jpg)
 
-Titel: Das Testament und letzter Wille des sterbenden Jesu
+**Titel:** Das Testament und letzter Wille des sterbenden Jesu
 
-Untertitel: Bey Christlicher Leichbestattung Der Weiland Hoch Edlen Groß Ehr- und Hochtugendreichen Frauen Frauen
+**Untertitel:** Bey Christlicher Leichbestattung Der Weiland Hoch Edlen Groß Ehr- und Hochtugendreichen Frauen Frauen
 Catharina gebohrnen Clausen Des Magnifici, HochEhrwürdigen/ HochEdlen und Hochgelahrten Herrn Christophori Francken
 SS. Theol. Doctoris, fürnehmsten Professoris und hochansehnlichen Procancellarii dieser hochlöblichen Universität
 hertzgeliebten Hauß-Ehre In damahliger Leichen-Predigt aus Joh. XVII, v. 24. (Vater Ich will/ daß wo Ich bin etc.) Am Sontage
 Oculi, war der 27. Martii dieses itztlauffenden 1698sten Jahrs in der Haupt-Kirchen St. Nicolai im Kiel in Volckreicher
 Versamlung eröffnet.
 
-#### Leichenpredigt von Katharina Franck, 1698
+#### Personalia
+
+![Leichenpredigt von Katharina Franck](img/Personalia.jpg)
 
 Finden Sie an der Leichenpredigt etwas überraschend? Wenn ja was?
 
 {{1}}
 > * ganz allgemein: die Tatsache, dass für eine Frau der Frühen Neuzeit eine Leichenpredigt verfasst wurde
 > * der Sprachgebrauch (herzliche, teilweise liebevolle Begriffe und Äußerungen)
-> * Beipsiel: "welche mit Raht und That ihm aufs freundschaftlischste und holdseligste an die Hand gegangen."
+> * Beispiel: "welche mit Raht und That ihm aufs freundschaftlischste und holdseligste an die Hand gegangen."
 > * ein Sprachgebrauch, der sich quasi auf "Augenhöhe" mit den Leichenpredigten, die für Männer geschrieben wurden, befindet
 > * ausführlich wird auf die soziale Herkunft und den Stand von Katharina Franck verwiesen
 > * ihre Zugehörigkeit zum gehobenen Bürgertum Kiels scheint den Stellenwert ihres Geschlechts abzulösen 
 
-#### Leichenpredigt von Katharina Franck, 1698
+#### Frauengeschichtliche Interpretation
 
 Welche Textstellen aus dem Abschnitt zu den "Personalia" würden Sie als Beschreibung typisch weiblicher Merkmale kennzeichnen?
-
-![Leichenpredigt von Katharina Franck](img/Personalia.jpg)
 
 {{1}}
 ********
@@ -151,31 +205,85 @@ Welche Textstellen aus dem Abschnitt zu den "Personalia" würden Sie als Beschre
 > _Die Zuschreibung als Mutter, Hausfrau und Ehefrau verweist die Frau auf die private Sphäre des Hauses (Privatheit), während die öffentliche Sphäre, Politik und Berufswelt, den Männern zugeordnet wurde (Öffentlichkeit)_
 ********
 
-#### Aktuelle Debatten um Stereotypen
-> Sind diese Geschlechterstereotype aktuell überwunden? Was meinen Sie?
+### Inkshedding: Themenfindung
 
-{{1}}
-> _Die bereits erwähnten Stereotypen und bestehenden Vorurteile gegenüber Frauen sind weiterhin präsent, wie eine aktuelle Untersuchung zur "Darstellung von Geschlechterrollen in sozialen Medien und deren Einfluss auf die Geschlechtergerechtigkeit" verdeutlicht:_
+1. Falten Sie ein DIN A4-Blatt vertikal in der Mitte. Vervollständigen Sie auf der linken Seite des Knicks den nachfolgenden Satz. Nutzen Sie die komplette linke Seite und schreiben Sie möglichst leserlich! Sie haben 10 Minuten Zeit.
 
-{{2}}
-![Rollenbildern in den sozialen Medien](img/Bild1.jpg)
+> Der Aspekt … interessiert mich besonders an der Frauengeschichte der Frühen Neuzeit, weil …
 
-{{3}}
-********
-![Rollenbildern in den sozialen Medien](img/Bild2.jpg)
-
-![Quelle](https://www.plan.de/rollenbilder-in-social-media.html?sc=IDQ24200)
-********
-
+2. Anschließend werden alle Zettel eingesammelt, gemischt und erneut ausgeteilt. Lesen Sie den (hoffentlich fremden) Text, markieren und kommentieren Sie die Punkte, die Ihnen besonders gut gefallen und spannend sind. Achten Sie auf interessante Inhalte und kommentieren Sie bitte immer positiv, etwa so: „Großartige Idee! Dazu fällt mir auch ein, dass …“. Dazu stehen 5 Minuten zur Verfügung.
+3. Wir wiederholen 2. ein zweites Mal.
 
 ### Aufgabe zur nächsten Woche
 
-Bitte lesen Sie zur nächsten Woche den folgende Artikel:
+1. Melden Sie sich beim [Archivinformationssystem Schleswig-Holstein](https://arcinsys.schleswig-holstein.de) an und machen Sie sich mit der Suche und der Struktur der Gliederung der Akten vertraut.
+2. Versuchen Sie sich an der Transkription der folgenden Handschriftseite aus einem Zauberey-Prozess:
 
-* Geschlechterrollen in der Frühen Neuzeit: https://referenceworks.brill.com/display/entries/EDNO/COM-272465.xml
+![Handschrift Zauberey](img/handschrift_zauberei.jpg)
 
-* Epochenbegriff Frühe Neuzeit: https://referenceworks.brill.com/display/entries/EDNO/COM-267907.xml#d39764389e786
+## Sitzung am 09.05.
 
-* Natalie Zemon Davis, Neue Perspektiven für die Geschlechterforschung in der Frühen Neuzeit; im Olat-Ordner
-  
-Desweiteren können Sie optional und zur weiteren Vertiefung den folgenden Artikel lesen:
+Entfällt wg. Feiertag!
+
+## Sitzung am 15.05.
+
+### Automatische Transkription mit Transkribus
+
+Transkribus ist ein Transkriptions-Tool, das von der Read COOP entwickelt wurde und Forschern und Wissenschaftlern dabei hilft, handschriftliche Dokumente zu digitalisieren und zu analysieren. Das Tool basiert auf der optischen Zeichenerkennung (OCR) und maschinellem Lernen und kann sowohl gedruckte als auch handgeschriebene Texte automatisch transkribieren. Darüber hinaus ermöglicht Transkribus auch die manuelle Transkription durch menschliche Transkribenten, wobei das Tool sie bei der Organisation und Verwaltung der Transkription unterstützt.
+
+Das Tool ist besonders nützlich für historische Dokumente, Archive, Bibliotheken und Museen, die ihre Dokumente digitalisieren und archivieren möchten. Transkribus bietet auch verschiedene Analysewerkzeuge an, die es Forschern erleichtern, die Inhalte und Strukturen der transkribierten Texte zu untersuchen.
+
+#### Die Benutzeroberfläche
+
+Die nachfolgenden Screenshots sind nicht mehr ganz aktuell, zeigen aber strukturell immer noch gut, was wo zu finden ist.
+
+##### Workdesk
+
+![Die Arbeitsoberfläche](img/transkribus_workdesk.png)
+
+##### Collections - View
+
+![Collection View](img/transkribus_collection-view.png)
+
+##### Collections - Organizer
+
+![Collection Organizer](img/transkribus_collections-organizer.png)
+
+##### Document - View
+
+![Document View](img/transkribus_document-view.png)
+
+##### Editor - Elements
+
+![Editor Elements](img/transkribus_editor-elements.png)
+
+##### Editor - Layout and Text 1
+
+![Editor: Layout and Text](img/transkribus_editor.png)
+
+##### Editor - Layout and Text 2
+
+![Editor: Layout and Text](img/transkribus_editor-layout.png)
+
+##### Tools Organizer
+
+![Tools Organizer](img/transkribus_tools-organizer.png)
+
+#### Der Workflow
+
+1. Account anlegen
+2. Collection mit einem sinnvollen Namen erstellen
+3. PDF Dokument hochladen: Entweder in der Collection oder unter Upload die Datei auswählen; aufpassen, dass der korrekte Dateityp gewählt wird.
+4. Automatische Texterkennung starten:
+
+   * Modelauswahl: *The Text Titan I* (erfordert Premium-Account) oder *The German Giant I* für Handschriften, *Transkribus Print M1* für Print verwenden.
+   * Warten: Die Transkription kann einige Zeit in Anspruch nehmen. Einen Überblick über den Fortschritt kann man sich unter "Jobs" verschaffen.
+
+5. Für jede Seite...
+
+   * Layout überprüfen und anpassen: Stimmen die Regionen oder sollten Regionen zusammengelegt werden? Wurden alle Zeilen erfasst? Wurden die Marginalien erfasst?
+   * Transkription überprüfen: Erkennungsfehler beheben.
+   * Speichern.
+
+6. Export der Ergebnisse
+
