@@ -280,7 +280,7 @@ nicht genau zu entnehmen.
 
 #### Quellenbeispiel mit Transkribus 
 
-![Transkribus Hexerei](img/transkribus_bsp.jpg)
+![Transkribus Hexerei](img/transkribus_bsp.png)
 
 
 ### Automatische Transkription mit Transkribus
