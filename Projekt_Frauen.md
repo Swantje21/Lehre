@@ -264,7 +264,7 @@ Carsten Rese. c/a Anneke Drewes
 
 #### Kontext des Quellenabschnitts
 
-![Anneke Drewes](img/Hexenverfolgung.jpg)
+![Anneke Drewes](img/Hexenverfolgung.png)
 
 1638 wurde Anneke Drewes von ihrem Nachbarn und dessen Frau nach einem Streit angeklagt wegen
 Hexerei, Kindsmord (Bezauberung einer Schwangeren und Tod des Kindes nach eineinhalb Jahren!) und
