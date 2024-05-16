@@ -278,6 +278,11 @@ auszuhalten hatte. Aber Anneke gestand wieder nicht und wurde freigelassen. Ob d
 Fall durch den Fürst direkt oder eine fürstliche Anweisung an das Holstengericht geschah, ist den Akten
 nicht genau zu entnehmen.
 
+#### Quellenbeispiel mit Transkribus 
+
+![Transkribus Hexerei](img/transkribus_bsp.jpg)
+
+
 ### Automatische Transkription mit Transkribus
 
 Transkribus ist ein Transkriptions-Tool, das von der Read COOP entwickelt wurde und Forschern und Wissenschaftlern dabei hilft, handschriftliche Dokumente zu digitalisieren und zu analysieren. Das Tool basiert auf der optischen Zeichenerkennung (OCR) und maschinellem Lernen und kann sowohl gedruckte als auch handgeschriebene Texte automatisch transkribieren. Darüber hinaus ermöglicht Transkribus auch die manuelle Transkription durch menschliche Transkribenten, wobei das Tool sie bei der Organisation und Verwaltung der Transkription unterstützt.
